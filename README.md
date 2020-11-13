@@ -2,6 +2,9 @@
 
 This is a very simple API script to render JSON data from a MySQL database.
 
+## Screenshot
+![simple-php-api](https://user-images.githubusercontent.com/30946443/99025384-8cb6c680-251d-11eb-9ee0-7d5c2bc52e67.jpg)
+
 ## Getting Started
 To get started, clone or download a copy of the repository into your local environment.
 
